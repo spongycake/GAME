@@ -1,0 +1,3 @@
+class asteroid {
+    contructor
+}
